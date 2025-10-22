@@ -1,2 +1,9 @@
-# Stress-Detection-using-ML-and-Image-Processing-Techniques
-The main motive of our project is to detect stress in the IT professionals using vivid Machine learning and Image processing techniques. Our system is an upgraded version of the old stress detection systems which excluded the live detection and the personal counseling but this system comprises of live detection and periodic analysis of employees and detecting physical as well as mental stress levels in his/her by providing them with proper remedies for managing stress by providing survey form periodically. Our system mainly focuses on managing stress and making the working environment healthy and spontaneous for the employees and to get the best out of them during working hours. The proposed System Machine Learning algorithms like KNN classifiers are applied to classify stress. Image Processing is used at the initial stage for detection, the employee’s image is given by the browser which serves as input. In order to get an enhanced image or to extract some useful information from it image processing is used by converting image into digital form and performing some operations on it. By taking input as an image and output may be image or characteristics associated with that images. The emotion are displayed on the rounder box. The stress level indicating by Angry, Disgusted, Fearful, Sad.
+# Emotion Detection Using Machine Learning and Image Processing
+
+This project aims to detect emotions in IT professionals using advanced Machine Learning and Image Processing techniques. The system focuses on real-time emotion detection from images captured through a browser interface.
+
+The process begins with image processing, where the input image is converted into a digital format and enhanced to extract meaningful features. These features are then fed into a Machine Learning model, such as a K-Nearest Neighbors (KNN) classifier, to classify the emotion displayed by the individual.
+
+The emotions detected include Angry, Disgusted, Fearful, and Sad. The identified emotion is highlighted in a bounding box on the image, providing clear visual feedback.
+
+This system can be used for applications requiring emotion recognition in real-time scenarios, offering insights into user states through live emotion detection.
